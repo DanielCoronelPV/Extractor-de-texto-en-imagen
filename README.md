@@ -37,7 +37,7 @@ The main goals of this project were to:
 ---
 
 ## 📸 Preview
-![Extractor-de-texto-en-imagen Screenshot](wwwroot/assets/ScreenshotExtractText.png)
+![Extractor-de-texto-en-imagen Screenshot](ExtractTextGoogleAi/Assets/ScreenshotExtractText.png)
 
 ---
 
