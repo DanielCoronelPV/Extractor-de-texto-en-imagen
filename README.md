@@ -1,38 +1,32 @@
 # 💼 Extract Text of Images
 
-A growing web application project aims to generate commercial interaction between producers in Argentina, Paraguay, Brazil, and Uruguay. 
+Project to extract text from images and process it to filter product data, using the Google Cloud Vision API and the Gemini AI API within the Visual Studio environment with C# .NET.
 
 ---
 
 ## 📌 Description
-This is a web application, designed and developed to act as a digital showcase for products.
+This is a desktop application, developed in Visual Studio with C# .NET, to extract text from images and intelligently process it to filter for product data.
 The main goals of this project were to:
-- Establish a professional space to showcase a catalog of products.
-- Integrate a fully functional contact form using Email.js to facilitate direct communication with clients.
-- Implement multilingual support to reach a broader audience.
-- Apply modern development principles, such as component-based architecture and responsive design, for optimal performance and user experience.
+- Utilize the Google Cloud Vision API for accurate and efficient text extraction (OCR).
+- Process the extracted text using the Gemini AI API to intelligently filter and obtain product-specific data.
+- Design a user-friendly interface to easily upload images and view the filtered results.
+- Demonstrate the use of modern APIs and robust C# development within a desktop application environment.
 
 ---
 
 ## 🛠 Technologies used
 - **.net** (framework)
 - **C#** (lnaguaje)
-- **JavaScript** (interactivity)  
-- **HTML5** (markup)  
-- **CSS3** (styling and responsive design)  
 - **Visual Studio** (development environment)  
-- **Github Pages** (deployment and hosting)  
 
 ---
 
 ## ✨ Features
-- Responsive and modern design
-- Custom-built components from scratch
-- Clean and organized project structure
-- Optimized performance for deployment on GitHub Pages
-- Integrated contact form with Email.js, allowing for direct and secure communication without a backend.
-- Multilingual support for 3 languages, enabling the application to reach a broader audience.
-- Reusable and modular components for easy maintenance and future scalability.
+- Google Cloud Vision API integration for accurate and precise text extraction.
+- Gemini AI API utilization for intelligent data analysis and product data filtering.
+- Simple and intuitive user interface for a smooth user experience.
+- Developed with C# .NET, ensuring a robust, secure, and performant application.
+- Clear and organized project structure for easy maintenance and future scalability.
 
 ---
 
